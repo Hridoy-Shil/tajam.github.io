@@ -1,0 +1,345 @@
+/* Extra small devices (portrait phones, less than 576px) extra small*/
+@media (max-width: 575.98px) {
+    .navbar-light .navbar-nav .nav-link {
+        background: black;
+        padding-left: 62px;
+        width: 35%;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        width: 100%;
+    }
+
+    .about_text h2 {
+        text-align: center;
+        margin-top: 25px;
+    }
+
+    .about_text a {
+        width: 100%;
+        text-align: center;
+    }
+
+    #video_part {
+        padding: 50px 0px;
+    }
+
+    .team_arrow_left {
+        left: 3%;
+        top: 81%;
+    }
+
+    .team_arrow_right {
+        top: 81%;
+        left: 94%;
+    }
+
+    .contact_left h3,
+    .contact-right h3 {
+        text-align: center;
+    }
+
+    .contact-btn {
+        width: 100%;
+        margin: 20px 0 40px 0;
+    }
+
+    .row {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .footer_top_wrap {
+        text-align: center;
+    }
+
+    .form-inline {
+        display: inline-block;
+    }
+
+    .send-input {
+        background: transparent;
+        border-radius: 0px;
+        padding: 21px 40px;
+        /* padding-left: 0px; */
+        color: #fff;
+    }
+
+    .send-btn {
+        padding: 10px 40px;
+    }
+
+    .footer_bottom_left ul li a {
+        font-size: 13px;
+    }
+
+    .footer_top_left p {
+        padding: 0px 50px;
+    }
+
+    .footer_top_middle h4,
+    .footer_top_right h4 {
+        padding: 20px 20px;
+        margin-top: 20px;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up) small*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-light .navbar-nav .nav-link {
+        background: black;
+        padding-left: 62px;
+        width: 35%;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        width: 100%;
+    }
+
+    .about_text h2 {
+        text-align: center;
+        margin-top: 25px;
+    }
+
+    .about_text a {
+        width: 100%;
+        text-align: center;
+    }
+
+    #video_part {
+        padding: 70px 0px;
+    }
+
+    #project {
+        padding: 40px 0px;
+    }
+
+    .project_top_left {
+        padding-bottom: 45px;
+    }
+
+    .project_top_left h3 {
+        padding-left: 20px;
+    }
+
+    .project_top_right p {
+        padding-right: 20px;
+    }
+
+    .team_text_top p::after {
+        top: 50px;
+    }
+
+    .team_arrow_left {
+        left: 4%;
+        top: 81%;
+    }
+
+    .team_arrow_right {
+        top: 81%;
+        left: 94%;
+    }
+
+    .contact_left h3,
+    .contact-right h3 {
+        text-align: center;
+        padding: 0px 0px 50px 0px;
+    }
+
+    .contact-btn {
+        width: 100%;
+        margin: 20px 0 40px 0;
+    }
+
+    .row {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .footer_top_wrap {
+        text-align: center;
+    }
+
+    .form-inline {
+        display: inline-block;
+    }
+
+    .send-input {
+        background: transparent;
+        border-radius: 0px;
+        padding: 21px 40px;
+        /* padding-left: 0px; */
+        color: #fff;
+    }
+
+    .send-btn {
+        padding: 10px 40px;
+    }
+
+    .footer_bottom_left ul li a {
+        font-size: 13px;
+    }
+
+    .footer_top_left p {
+        padding: 0px 50px;
+    }
+
+    .footer_top_middle h4,
+    .footer_top_right h4 {
+        padding: 20px 20px;
+        margin-top: 20px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) Medium*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-light .navbar-nav .nav-link {
+        background: black;
+        padding-left: 70px;
+        width: 35%;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        width: 100%;
+        left: 50%;
+    }
+
+    .banner_text {
+        padding-top: 160px;
+        padding-bottom: 150px;
+    }
+
+    #team_part {
+        padding: 40px 0px;
+    }
+
+    #project {
+        padding: 40px 0px;
+    }
+
+    .project_top_left {
+        padding-bottom: 45px;
+    }
+
+    .team_text_bottom p {
+        padding-bottom: 15px;
+    }
+
+    .team_text_top p {
+        padding-bottom: 45px;
+    }
+
+    .about_text h2 {
+        text-align: center;
+        margin-top: 25px;
+    }
+
+    .about_text a {
+        width: 100%;
+        text-align: center;
+    }
+
+    #video_part {
+        padding: 100px 0px;
+    }
+
+    #service_part {
+        padding: 40px 0px;
+    }
+
+    .project-bottom {
+        padding-top: 45px;
+    }
+
+    .team_arrow_left {
+        left: 15%;
+        top: 80%;
+    }
+
+    .team_arrow_right {
+        top: 80%;
+        left: 84%;
+    }
+
+    .contact_left h3,
+    .contact-right h3 {
+        text-align: center;
+        padding: 30px 0px 50px 0px;
+    }
+
+    #contact {
+        padding: 0px 0px;
+    }
+
+    .contact-btn {
+        width: 100%;
+        margin: 20px 0 40px 0;
+    }
+
+    .footer_top_wrap {
+        text-align: center;
+    }
+
+    .form-inline {
+        display: inline-block;
+    }
+
+    .send-input {
+        background: transparent;
+        border-radius: 0px;
+        padding: 21px 40px;
+        /* padding-left: 0px; */
+        color: #fff;
+    }
+
+    .send-btn {
+        padding: 10px 40px;
+    }
+
+    .footer_bottom_left ul li a {
+        font-size: 15px;
+    }
+
+    .footer_top_middle h4,
+    .footer_top_right h4 {
+        padding-bottom: 10px;
+        padding-top: 25px;
+    }
+}
+
+/*Large devices (desktops, 992px and up) Large*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .team_arrow_left {
+        left: 22%;
+    }
+
+    .team_arrow_right {
+        left: 77%;
+        top: 78%;
+    }
+
+    .footer_top_wrap {
+        font-size: 15px;
+    }
+
+    .send-input {
+        background: transparent;
+        border-radius: 0px;
+        padding: 21px 8px;
+        padding-left: 0px;
+        color: #fff;
+    }
+}
+
+/*Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .team_arrow_left {
+        left: 27%;
+        top: 78%;
+    }
+
+    .team_arrow_right {
+        top: 78%;
+        left: 72%;
+    }
+}
